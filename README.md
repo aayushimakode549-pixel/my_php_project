@@ -20,10 +20,11 @@ It serves as a foundation for future PHP web applications and database projects.
 
 ## 📋 Steps Completed
 1. Installed and configured **XAMPP**.  
-2. Created a new folder `myproject` inside `htdocs`.  
-3. Added a test file `index.php` and verified it on `http://localhost/myproject`.  
+2. Created a new folder `my_php_project` inside `htdocs`.  
+3. Added a test file `index.php` and verified it on `http://localhost/my_php_project`.  
 4. Initialized Git and made the first commit.  
 5. Linked the local repository with GitHub using:
    ```bash
-   git remote add origin https://github.com/shrutisaxenai/myproject.git
+   git remote add origin https://github.com/aayushimakode549-pixel/my_php_project.git
    git push -u origin main
+
