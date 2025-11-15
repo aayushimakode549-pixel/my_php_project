@@ -1,13 +1,29 @@
-# MyProject
-A simple PHP development setup project using XAMPP, MySQL, and GitHub for version control.
+# 🌐 MyProject
 
-## Tools Used
-- XAMPP (Apache + MySQL)
-- PHP
-- Git and GitHub
+A simple **PHP development setup** project using **XAMPP**, **MySQL**, and **GitHub** for version control.
 
-## Steps Completed
-1. Installed XAMPP and verified localhost.
-2. Set up a local PHP project.
-3. Initialized Git and connected to GitHub.
-4. Successfully pushed the first commit.
+---
+
+## 🧠 Overview
+This project demonstrates how to set up a complete local development environment for PHP and MySQL, and connect it to a remote GitHub repository for version control.  
+It serves as a foundation for future PHP web applications and database projects.
+
+---
+
+## 🛠️ Tools & Technologies
+- ⚙️ **XAMPP (Apache + MySQL)**
+- 💻 **PHP**
+- 🗂️ **Git & GitHub**
+- 🧰 **VS Code** (or any code editor)
+
+---
+
+## 📋 Steps Completed
+1. Installed and configured **XAMPP**.  
+2. Created a new folder `myproject` inside `htdocs`.  
+3. Added a test file `index.php` and verified it on `http://localhost/myproject`.  
+4. Initialized Git and made the first commit.  
+5. Linked the local repository with GitHub using:
+   ```bash
+   git remote add origin https://github.com/shrutisaxenai/myproject.git
+   git push -u origin main
